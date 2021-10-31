@@ -1,6 +1,6 @@
 @echo off
 echo **This file must be ran with administrator privileges**
-echo Thanks to BrentDaMage for letting me know about this.
+echo For more info  Contact NotAlex#5506 for help
 echo 128.116.119.4 www.roblox.com >> %HOMEDRIVE%/Windows/System32/drivers/etc/hosts
 echo 128.116.119.4 web.roblox.com >> %HOMEDRIVE%/Windows/System32/drivers/etc/hosts
 echo 128.116.119.4 abtesting.roblox.com >> %HOMEDRIVE%/Windows/System32/drivers/etc/hosts
@@ -9,7 +9,7 @@ echo 128.116.119.4 accountsettings.roblox.com >> %HOMEDRIVE%/Windows/System32/dr
 echo 128.116.119.4 adconfiguration.roblox.com >> %HOMEDRIVE%/Windows/System32/drivers/etc/hosts
 echo 128.116.119.4 ads.roblox.com >> %HOMEDRIVE%/Windows/System32/drivers/etc/hosts
 echo 128.116.119.4 api.roblox.com >> %HOMEDRIVE%/Windows/System32/drivers/etc/hosts
-echo 128.116.119.4 assetdelivery.roblox.com >> %HOMEDRIVE%/Windows/System32/drivers/etc/hosts
+echo 128.116.119.4 assetdelivery.roblox.com >> %HOMEDRIVE%/Windows/System32/drivHOMEDRIVE%/Windows/System32/drivers/etc/hostsers/etc/hosts
 echo 128.116.119.4 auth.roblox.com >> %HOMEDRIVE%/Windows/System32/drivers/etc/hosts
 echo 128.116.119.4 avatar.roblox.com >> %HOMEDRIVE%/Windows/System32/drivers/etc/hosts
 echo 128.116.119.4 badges.roblox.com >> %HOMEDRIVE%/Windows/System32/drivers/etc/hosts
